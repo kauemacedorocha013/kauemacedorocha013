@@ -2,7 +2,7 @@ Aobaa! como vocês estão? Sou Kauê desenvolvedor Front-End👋
 
 - 🔭 Trabalho como desenvolvedor Front-end
 - 🌱 Atualmente estou aprendendo Javascript/React
-- 📫 Encontre-me em:https://www.linkedin.com/in/kauê-macedo-da-rocha-44684626a/
+- 📫 Encontre-me em :https://www.linkedin.com/in/kauê-macedo-da-rocha-44684626a/
 - ⚡ Curiosidade: Sou um Nordestino Morando em São Paulo e Jogo futebol muito bem😎.
 
 <div style="display: inline_block"><br>
